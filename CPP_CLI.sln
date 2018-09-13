@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_WRAPPER", "CPP_WRAPPER\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_CLI", "CSharp_CLI\CSharp_CLI.csproj", "{08D468C6-AB25-4362-BCDA-8AA370E5B31C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_CLI", "WpfApp1\WPF_CLI.csproj", "{1ACCE79F-6328-462E-9F3B-0724770BBB66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,18 @@ Global
 		{08D468C6-AB25-4362-BCDA-8AA370E5B31C}.Release|x64.Build.0 = Release|Any CPU
 		{08D468C6-AB25-4362-BCDA-8AA370E5B31C}.Release|x86.ActiveCfg = Release|Any CPU
 		{08D468C6-AB25-4362-BCDA-8AA370E5B31C}.Release|x86.Build.0 = Release|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Debug|x64.Build.0 = Debug|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Debug|x86.Build.0 = Debug|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Release|x64.ActiveCfg = Release|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Release|x64.Build.0 = Release|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Release|x86.ActiveCfg = Release|Any CPU
+		{1ACCE79F-6328-462E-9F3B-0724770BBB66}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

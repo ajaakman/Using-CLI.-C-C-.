@@ -11,15 +11,14 @@ namespace CSharp_CLI
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("C Sharp");
             CLIWrapperClass cli = new CLIWrapperClass();
 
             Console.WriteLine(cli.GetCLI_var());
             Console.ReadLine();
             cli.SetCLI_var(8);
             Console.WriteLine(cli.GetCLI_var());
-            Console.ReadLine();
-            
+            Console.ReadLine();            
         }
     }
 }
