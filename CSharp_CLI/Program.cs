@@ -18,7 +18,9 @@ namespace CSharp_CLI
             Console.ReadLine();
             cli.SetCLI_var(8);
             Console.WriteLine(cli.GetCLI_var());
-            Console.ReadLine();            
+            Console.ReadLine();
+            cli.Print();
+            Console.ReadLine();
         }
     }
 }
